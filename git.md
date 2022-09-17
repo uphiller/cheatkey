@@ -7,3 +7,9 @@ git remote remove origin
 ```
 git remote add origin https://github.com/계정/리포지토리
 ```
+
+### 리포지토리 remote 조회
+```
+git remote -v 
+```
+
