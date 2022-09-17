@@ -7,5 +7,3 @@ git remote remove origin
 ```
 git remote add origin https://github.com/계정/리포지토리
 ```
-
-### 끝 
